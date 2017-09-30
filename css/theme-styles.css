@@ -288,10 +288,10 @@ h5 {
   height: 600px;
 }
 .bg-light-1 {
-  background: url("/metronic/assets/pages/img/frontend-slider/coloring_bg.png") no-repeat center;
+  background: url("/metronic/assets/pages/img/frontend-slider/scanner_bg.png") no-repeat center;
 }
 .bg-light-2 {
-  background: url("/metronic/assets/pages/img/frontend-slider/scanner_bg.png") no-repeat center;
+  background: url("/metronic/assets/pages/img/frontend-slider/coloring_bg.png") no-repeat center;
 }
 .bg-light-3 {
   background: url("/metronic/assets/pages/img/frontend-slider/poker_bg.png") no-repeat center;
