@@ -279,15 +279,15 @@ h5 {
   margin-left: 1px;
   margin-top: 50px;
 }
-.row-corporate .MacdownLoadImg {
-  height: 30px;
-  margin-top: 10px;
-  margin-left: 300px;
-}
 .row-corporate .downLoadImg {
   height: 30px;
   margin-left: 300px;
   margin-top: 70px;
+}
+.row-corporate .MacdownLoadImg {
+  height: 30px;
+  margin-top: 60px;
+  margin-left: 300px;
 }
 .row-corporate-text-container {
   height: 600px;
