@@ -282,10 +282,11 @@ h5 {
 .row-corporate .MacdownLoadImg {
   height: 30px;
   margin-top: 10px;
+  margin-left: 300px;
 }
 .row-corporate .downLoadImg {
   height: 30px;
-  margin-left: 10px;
+  margin-left: 300px;
   margin-top: 70px;
 }
 .row-corporate-text-container {
